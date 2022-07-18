@@ -1,0 +1,36 @@
+body {
+    margin: 0%;
+    background-color: #fff;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    background: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#box {
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #768390;
+}
+
+h3,
+h4,
+p {
+    color: #fff;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#resultado {
+    color: #fff;
+}
